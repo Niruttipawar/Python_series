@@ -1,0 +1,35 @@
+ ============================================================
+📂 Object-Oriented Programming (OOP) Concepts in Python
+ ============================================================
+Points that we covered...........
+ 1. Class:
+#    - Blueprint for creating objects.
+#    - Defines attributes (variables) and methods (functions).
+#
+ 2. Object:
+#    - Instance of a class.
+#    - Represents real-world entities with state (attributes) and behavior (methods).
+
+ 3. Encapsulation:
+#    - Bundling data and methods together.
+#    - Restricting direct access using private/protected members.
+#    - Achieved via naming conventions (_protected, __private).
+
+ 4. Abstraction:
+#    - Hiding implementation details, exposing only essentials.
+#    - Achieved using abstract classes and methods (abc module).
+
+ 5. Inheritance:
+#    - Mechanism to reuse code by deriving new classes from existing ones.
+#    - Types: Single, Multiple, Multilevel, Hierarchical, Hybrid.
+
+ 6. Polymorphism:
+#    - Same interface, different implementations.
+#    - Method Overriding (runtime polymorphism).
+#    - Method Overloading (not natively supported, but can be mimicked).
+
+ 7. Constructor (__init__):
+#    - Special method to initialize object attributes.
+
+ 8. Destructor (__del__):
+#    - Special method to clean up resources when object is deleted
