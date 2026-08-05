@@ -9,4 +9,3 @@ del d[30]  #removing key and value by using the del method
 
 print(d)
 
-help(dict)
