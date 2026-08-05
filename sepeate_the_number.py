@@ -1,6 +1,4 @@
 
-
-
 a=int(input("Enter a number: "))
 
 rev=0
